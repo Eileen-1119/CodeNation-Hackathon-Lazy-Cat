@@ -40,7 +40,7 @@ setTimeout(() => {
         displaySchedule();
         };
   }
-  console.log(displaySchedule);
+  
     function addSchedule() {
         //input information to their own schedule
         let userWakeInput = wakeTime.value;
